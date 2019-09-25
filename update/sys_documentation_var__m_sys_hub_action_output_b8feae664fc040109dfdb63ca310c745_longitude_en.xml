@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="longitude" label="Longitude" language="en" table="var__m_sys_hub_action_output_b8feae664fc040109dfdb63ca310c745">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>longitude</element>
+            <help/>
+            <hint/>
+            <label>Longitude</label>
+            <language>en</language>
+            <name>var__m_sys_hub_action_output_b8feae664fc040109dfdb63ca310c745</name>
+            <plural/>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-09-25 18:07:40</sys_created_on>
+            <sys_id>59fe22a64fc040109dfdb63ca310c7c8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Longitude</sys_name>
+            <sys_package display_value="IPInfo Spoke" source="x_393827_ipinfo_sp">0369a2ee4f8040109dfdb63ca310c7af</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="IPInfo Spoke">0369a2ee4f8040109dfdb63ca310c7af</sys_scope>
+            <sys_update_name>sys_documentation_var__m_sys_hub_action_output_b8feae664fc040109dfdb63ca310c745_longitude_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-09-25 18:07:40</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
